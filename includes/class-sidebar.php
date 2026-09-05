@@ -24,9 +24,14 @@ class SpeakEasyGrammar_Sidebar {
     }
 
     public function render_sidebar() {
+        // FIX #2: Echo the sidebar output instead of discarding it
+        // 
+        // The previous implementation used ob_start() and ob_get_clean()
+        // but never echoed the result, causing the buffered HTML to be lost.
+        // Now we capture the output buffer and echo it directly to the page.
         ob_start();
         include SEGRAMMAR_PLUGIN_DIR . 'templates/sidebar.php';
-        ob_get_clean();
+        echo ob_get_clean();
     }
 
     public function get_topics() {
