@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Speak Easy Grammar Reference 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Search grammar..."
+msgstr ""
+
+msgid "Grammar Topics"
+msgstr ""
+
+msgid "Toggle navigation menu"
+msgstr ""
+
+msgid "Grammar topics"
+msgstr ""
+
+msgid "Italian Explanation"
+msgstr ""
+
+msgid "Grammar Table"
+msgstr ""
+
+msgid "English Examples"
+msgstr ""
+
+msgid "Italian Translations"
+msgstr ""
+
+msgid "Common Mistakes"
+msgstr ""
+
+msgid "Related Topics"
+msgstr ""
+
+msgid "CEFR Level:"
+msgstr ""
+
+msgid "No lesson specified."
+msgstr ""
+
+msgid "Lesson not found."
+msgstr ""
+
+msgid "Lesson data not found."
+msgstr ""

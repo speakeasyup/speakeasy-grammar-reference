@@ -1,0 +1,28 @@
+# WordPress
+wp-config.php
+wp-content/plugins/*
+!wp-content/plugins/speakeasy-grammar-reference/
+wp-content/themes/
+wp-content/uploads/
+wp-*.php
+wpml-config.xml
+.htaccess
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dependencies
+node_modules/
+vendor/
+composer.lock
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
